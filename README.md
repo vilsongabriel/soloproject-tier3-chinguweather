@@ -11,8 +11,11 @@ npm install
 ## Usage
 
 ```
+node app.js "location" -unit
 
 ```
+Location is required
+Unit can be -c or -f, if empty both units are displayed
 
 ## Related
 
