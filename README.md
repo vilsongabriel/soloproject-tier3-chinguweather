@@ -7,12 +7,16 @@ Clone this repository and run
 ```sh
 npm install
 ```
+Then create a .env file with your Mapbox and OpenWeather API keys
+```sh
+MAPBOX_TOKEN="YOUR_TOKEN"
+OPENWEATHER_KEY="YOUR_KEY"
+```
 
 ## Usage
 
 ```
 node app.js "location" -unit
-
 ```
 Location is required
 Unit can be -c or -f, if empty both units are displayed
