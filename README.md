@@ -19,7 +19,7 @@ OPENWEATHER_KEY="YOUR_KEY"
 ```
 node app.js "location" -unit
 ```
-Location is required
+Location is required\
 Unit can be -c or -f, if empty both units are displayed
 
 ## Related
