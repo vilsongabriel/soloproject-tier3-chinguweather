@@ -1,7 +1,7 @@
 # soloproject-tier3-chinguweather
+![Screenshot](screenshot.png)
 
 > Simple Node.js CLI tool to fetch weather data based on a location string, also saves the data on a .txt file.
-![Screenshot](screenshot.png)
 
 ## Install
 Clone this repository and run
