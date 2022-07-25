@@ -16,4 +16,4 @@ npm install
 
 ## Related
 
-- [oloproject-tier3-chinguweather](https://github.com/chingu-voyages/soloproject-tier3-chinguweather) - Chingu Tier 3 Weather CLI Project
+- [soloproject-tier3-chinguweather](https://github.com/chingu-voyages/soloproject-tier3-chinguweather) - Chingu Tier 3 Weather CLI Project
